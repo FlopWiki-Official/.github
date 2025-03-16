@@ -22,4 +22,4 @@ We are the organization who created FlopWiki
 ## Communities:
 
 
-- [Floptropica (A discord server where all floptropicans can connect.)](https://discord.gg/tVtqrGm9y4)]
+- [Floptropica (A discord server where all floptropicans can connect.)](https://discord.gg/tVtqrGm9y4)
